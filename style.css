@@ -410,7 +410,10 @@ a:hover{
   }
   
   /* FOOTER SECTION */
-  
+  footer{
+    background-color: black;
+    color: white;
+  }
   footer nav {
     height: 26vh;
     background-color: black;
